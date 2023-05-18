@@ -10,11 +10,8 @@
     
     p.muted // made with love by
     p.contributors class&nbsp;
-      a(href="https://twitter.com/thunderbolt990525") @thunderbolt990525&nbsp;
-      span extends&nbsp;
-      a(href="https://github.com/S3B4S") @S3B4S&nbsp;
-      span and&nbsp;
-      a(href="https://devcord.com") devcord
+      a(href="https://twitter.com/thunderbolt") @thunderbolt&nbsp;
+      span extends;
 
 
 </template>
