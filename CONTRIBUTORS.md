@@ -1,8 +1,8 @@
 ## Contributors
 These are lovely people who have helped this project:
 
-- [lostdesign](https://github.com/lostdesign) : Active Contributor and currently also the main contributor.
-  * twitter: @lostdesign
+- [thunderbolt990525](https://github.com/thunderbolt990525) : Active Contributor and currently also the main contributor.
+  * twitter: @thunderbolt990525
 - [Kevin](https://github.com/S3B4S) :dog:
 - [jacobparis](https://github.com/jacobparis) : Team Devcord
   * twitter: @jacobmparis

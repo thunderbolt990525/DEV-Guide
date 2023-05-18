@@ -17,9 +17,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) if you'd like to report an issue 
 
 ## Authors
 
-* **lost.design** - *Initial work* - [lostdesign](https://github.com/lostdesign)
-
-See also the list of [contributors](https://github.com/webgems/webgems/contributors) who participated in this project.
+* **dev.design** - *Initial work* - [thunderbolt990525](https://github.com/thunderbolt990525)
 
 ## License
 
