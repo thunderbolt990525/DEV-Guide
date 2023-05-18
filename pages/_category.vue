@@ -43,7 +43,7 @@ export default {
     async createCopyUrl(resource) {
       try {
         const { path, cleanTitle } = resource
-        await this.$copyText(`https://webgems.io${path}`)
+        await this.$copyText(`https://DevGuide.io${path}`)
         this.setActiveCard(cleanTitle)
         this.$router.push(path)
       } catch (e) {

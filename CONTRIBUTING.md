@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Thank you for considering to contribute to webgems.io!
+Thank you for considering to contribute to DevGuide.io!
 
 Whether you want to report a bug, request a feature or contribute new resources
 or code, we appreciate your effort and will do our best to incorporate them into
@@ -105,6 +105,6 @@ well, that way Nuxt can take care of rendering the page.
 
 ### Tech stack
 
-webgems.io is built with [Vue.js](https://vuejs.org/) and
+DevGuide.io is built with [Vue.js](https://vuejs.org/) and
 [Nuxt](https://nuxtjs.org/). You can refer to their respective documentation to
 find out more about how they work.
